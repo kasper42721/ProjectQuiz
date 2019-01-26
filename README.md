@@ -1,4 +1,4 @@
-# silver-octo-chainsaw
+# ProjectQuiz
 (Terrible Name, IKnow, Chosen by GitHub)
 
 # This page is meant to provide some important information, tasks and responsibilities
